@@ -16,4 +16,10 @@ public class TestController {
 	public String dropDown() {
 		return "test1/dropMenu";
 	}
+	
+	/* dropDown 페이지2 */
+	@RequestMapping("/dropMenu2.do")
+	public String dropDown2() {
+		return "test1/dropMenu2";
+	}
 }
