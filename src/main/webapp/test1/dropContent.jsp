@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>아코디언 메뉴 테스트</title>
+<title>아코디언 메뉴 테스트사이트</title>
 </head>
 <style>
 	input[id*="answer"] {
